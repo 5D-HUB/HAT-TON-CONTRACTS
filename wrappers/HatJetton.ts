@@ -1,0 +1,1 @@
+export * from '../build/HatJetton/tact_HatJetton';
